@@ -8,8 +8,8 @@
 
 import glob, os, re
 
-viewer = 'http://nbviewer.ipython.org/'
-this_repo = 'github/payne92/notebooks/blob/master/'
+viewer = 'http://github.com/'
+this_repo = 'payne92/notebooks/blob/master/'
 print """
 This is my collection of IPython Web notebooks on various topics:
 """
